@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test app test de renderizado 1`] = `
+<Fragment>
+  <header>
+    <h2>
+      GifExpertApp
+    </h2>
+  </header>
+  <section>
+    <AddCategory
+      setCategories={[Function]}
+    />
+  </section>
+  <GifGrid
+    category="trending"
+    key="trending"
+  />
+</Fragment>
+`;

@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test en component <AddCategory /> debe de mostrarse correctamente 1`] = `
+<form
+  onSubmit={[Function]}
+>
+  <input
+    onChange={[Function]}
+    placeholder="Introduce tu gif"
+    type="text"
+    value=""
+  />
+</form>
+`;
